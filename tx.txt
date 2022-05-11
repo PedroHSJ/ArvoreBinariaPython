@@ -1,0 +1,3 @@
+Pre => Raiz, Esquerda, Direita
+Ordem => Esquerda, Raiz, Direita
+Pos => Esquerda, Direita, Raiz 
